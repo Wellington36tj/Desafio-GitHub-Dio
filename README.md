@@ -1,3 +1,2 @@
-D# Desafio-GitHub-Dio                                                                      
+Desafio GitHub Dio                                                                      
 Primeiro repositóri
- 
